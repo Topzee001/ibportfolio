@@ -1,0 +1,29 @@
+{
+  "name": "Sakariyah Ibrahim Temitope",
+  "location": "Kwara State, Nigeria",
+  "social_media": {
+    "twitter": {"url": "https://twitter.com/Topzee0o1", "icon": "twitter"},
+    "instagram": {"url": "https://www.instagram.com/topzeee261/", "icon": "instagram"},
+    "linkedin": {"url": "https://www.linkedin.com/in/ibrahim-sakariyah-071380183/", "icon": "linkedin"}
+  },
+  "about": "I am a professional mobile app developer with over 5 years of experience in developing mobile apps for iOS and Android platforms. My expertise includes developing custom UI components, integrating third-party libraries and APIs, and optimizing app performance. I have a keen eye for detail and always strive to deliver high-quality work that exceeds my clients' expectations.",
+  "years_of_experience": 5,
+  "projects_handled": [
+    {
+      "name": "E-commerce App",
+      "description": "A mobile app that allows users to purchase products online.",
+      "year": 2023
+    },
+    {
+      "name": "Fitness App",
+      "description": "A mobile app that helps users track their fitness goals and progress.",
+      "year": 2022
+    },
+    {
+      "name": "Travel App",
+      "description": "A mobile app that helps users plan and book their travel itineraries.",
+      "year": 2021
+    }
+  ],
+  "clients_worked_for": 4
+}
